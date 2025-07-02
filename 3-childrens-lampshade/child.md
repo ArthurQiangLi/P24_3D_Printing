@@ -2,4 +2,4 @@
 
 | Expected | Actual |
 |:--|:--|
-|![download](./small-lamp.webp)| |
+|![download](./small-lamp.webp)| ![actual](image.png)|
