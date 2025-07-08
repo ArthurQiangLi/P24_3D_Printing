@@ -11,7 +11,7 @@ My 3D printing parts. This is just a playground for printing 3D parts.
 |5. lamp shade honeycone| [5.md](5-lamp-shade-great/shade.md) |
 |6. holder divider| [T holder.md](6-holder-divider-T/holder.md) |
 |7. cotton holder | [cotton holder.md](./7-cotton-holder/cotton.md)|
-|||
+|8. caliper holder| [caliper holder.md](./8-caliper-holder/cliper.md)|
 
 
 
