@@ -12,6 +12,9 @@ My 3D printing parts. This is just a playground for printing 3D parts.
 |6. holder divider| [T holder.md](6-holder-divider-T/holder.md) |
 |7. cotton holder | [cotton holder.md](./7-cotton-holder/cotton.md)|
 |8. caliper holder| [caliper holder.md](./8-caliper-holder/cliper.md)|
+|9. lop panel | [lop.md](./9-LOP/lop.md)|
+|10. pen holder | [pen holder.md](./10-penholder/penholder.md)|
+|11. 407 disc1 casing | [disc1.md](./11-stm32f407-disc1/407.md)|
 
 
 
