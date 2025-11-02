@@ -15,6 +15,7 @@ My 3D printing parts. This is just a playground for printing 3D parts.
 |9. lop panel | [lop.md](./9-LOP/lop.md)|
 |10. pen holder | [pen holder.md](./10-penholder/penholder.md)|
 |11. 407 disc1 casing | [disc1.md](./11-stm32f407-disc1/407.md)|
+|12. 3D fonts | [fonts.md](./12-Fonts-for-printing/fonts.md)
 
 
 
