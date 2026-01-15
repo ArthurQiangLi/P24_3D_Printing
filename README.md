@@ -2,6 +2,9 @@
 My 3D printing parts. This is just a playground for printing 3D parts.
 
 ## Table of parts
+
+
+
 | Info | Notes|Picture |
 |:--|:--|---|
 |1| [7 inch screen case.md](1-7inch-screen_casing/1.md) |
@@ -23,6 +26,10 @@ My 3D printing parts. This is just a playground for printing 3D parts.
 |15|[cherry switch sample box holder](./15-cherry-sample-box/cherry.md)|
 
 
+## Parts
+| | | |
+|---|---|---|
+|Cherry MX1A F1NA | | |
 
 
 
