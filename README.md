@@ -23,14 +23,21 @@ My 3D printing parts. This is just a playground for printing 3D parts.
 |12| [test: fonts.md](./12-Fonts-for-printing/fonts.md)
 |13|[cyberbrick forklift track designs](./13-cyberbrick-forklift-track/tracks.md)|
 |14|[laptop stand](./14-laptop-stand/laptop.md)|
-|15|[cherry switch sample box holder](./15-cherry-sample-box/cherry.md)|
 
 
-## Parts
+
+## 01-Parts-Blocks-Components
 | | | |
 |---|---|---|
-|Cherry MX1A F1NA | | |
+|Cherry MX1A F1NA <br> <img src="01-Parts-Blocks-Components\83-CherryMX-Switch\image-4.png" height=200> |  [R1966-Switch](01-Parts-Blocks-Components\82-R1966-Switch\r1966.md) <br> <img src="01-Parts-Blocks-Components\82-R1966-Switch\image.png" height=200>  | Fonts <br> <img src="01-Parts-Blocks-Components\12-Fonts-for-printing\image.png" height=200> |
+|Test The Printer <br> <img src="01-Parts-Blocks-Components/0-test-printer/WIN_20260116_16_36_34_Pro.jpg" height=200> |||
 
 
+
+## 02-Home-Projects
+
+
+
+## 03-Work-Projects
 
 

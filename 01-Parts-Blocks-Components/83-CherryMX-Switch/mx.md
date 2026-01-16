@@ -1,5 +1,6 @@
 # Cherry MX Switches
 
+![alt text](image-4.png)
 
 Dimensions
 
